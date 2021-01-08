@@ -1,0 +1,13 @@
+{
+    "name": "windows10/test/shop-thoiTrang/",
+    "require": {
+
+        "illuminate/database": "*",
+        "jenssegers/blade": "*",
+        "illuminate/events": "^7.15"
+
+    },
+    "autoload": {
+        "psr-4": { "App\\": "app/" }
+    }
+}
